@@ -174,6 +174,10 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
+Developed By: palamakula deepika
+Reg No.: 212221240035
+```
+```
 #include "main.h"
 #include "lcd.h"
 void SystemClock_Config(void);
@@ -258,13 +262,13 @@ void assert_failed(uint8_t *file, uint32_t line){}
 ## Output screen shots of proteus  :
 <img width="116" alt="EX41" src="https://github.com/palamakuladeepika/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94154679/7e86a3c7-bc65-47a5-87c6-ec71f3f6df0a">
 
- 
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- 
  <img width="560" alt="EXP4" src="https://github.com/palamakuladeepika/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94154679/c96e00f1-9424-4135-8ed4-be714f537e38">
 
- 
+## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+
+![pmc3](https://github.com/palamakuladeepika/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/94154679/169115fd-d964-495a-bf06-9c2ba04a52a0)
+
+
 ## Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
